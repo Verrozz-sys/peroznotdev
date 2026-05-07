@@ -1,2 +1,0 @@
-# peroznotdev
-token verif
